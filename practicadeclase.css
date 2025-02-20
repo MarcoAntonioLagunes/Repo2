@@ -1,0 +1,67 @@
+/* Estilo general */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo del encabezado */
+header {
+    text-align: center;
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+header img {
+    width: 80%;
+    max-width: 600px;
+    margin-top: 20px;
+}
+
+/* Estilo de las secciones */
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: goldenrod;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+    color: blue;
+    font-size: 1.8em;
+}
+
+section p {
+    font-size: 1.1em;
+    line-height: 1.6;
+}
+
+section ul {
+    font-size: 1.1em;
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+/* Estilo de las imágenes en la sección de mascotas */
+section img {
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    
+}
+
+/* Estilo de la tabla */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
